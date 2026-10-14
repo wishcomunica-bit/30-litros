@@ -1,0 +1,6 @@
+{
+  "name": "Sorteio 30 Litros de Chopp - Siga os Perfis",
+  "description": "Bio site oficial mobile para a campanha de sorteio de 30 litros de chopp. Siga os perfis parceiros e concorra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
