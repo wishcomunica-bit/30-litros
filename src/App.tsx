@@ -132,13 +132,13 @@ export default function App() {
         </header>
 
         {/* 2. TEXTO ENTRE A LOGO E OS BOTÕES */}
-        <section className="w-full flex flex-col items-center mb-3.5 px-1">
-          <p className="text-white text-[13.5px] sm:text-[14.5px] font-medium leading-snug text-center text-balance select-none drop-shadow-[0_1px_4px_rgba(0,0,0,0.9)]">
+        <section className="w-full flex flex-col items-center mb-4 px-1">
+          <p className="text-white text-[16px] sm:text-[17.5px] font-semibold leading-snug sm:leading-normal text-center text-balance select-none drop-shadow-[0_1px_6px_rgba(0,0,0,0.95)] max-w-[360px] mx-auto">
             Preencha o cupom de papel com suas informações e siga os perfis abaixo para concorrer.
           </p>
-          {/* Linha discreta laranja de 30px de largura e 2px de altura */}
+          {/* Linha discreta laranja de 32px de largura e 2px de altura */}
           <div
-            className="w-[30px] h-[2px] bg-[#FF6A00] rounded-full mt-2 opacity-90 shadow-[0_0_8px_rgba(255,106,0,0.6)]"
+            className="w-[32px] h-[2px] bg-[#FF6A00] rounded-full mt-2.5 opacity-90 shadow-[0_0_8px_rgba(255,106,0,0.7)]"
             aria-hidden="true"
           />
         </section>
